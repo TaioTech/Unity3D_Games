@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Character Classses/Player/PlayerCharacter.cs">
+    <Files>
+      <File FileName="Assets/Scripts/HUD Classes/VitalBar.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/EnemyAI.cs" Line="294" Column="21" />
+      <File FileName="Assets/Scripts/Enemy/WizardAI.cs" Line="573" Column="21" />
+      <File FileName="Assets/Scripts/Enemy/EnemyStats.cs" Line="6" Column="24" />
+      <File FileName="Assets/Scripts/Enemy/CommonBehavior.cs" Line="4" Column="1" />
+      <File FileName="Assets/Scripts/Character Classses/CharacterGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Enemy/CommonWizardBehavior.cs" Line="7" Column="42" />
+      <File FileName="Assets/Scripts/Character Classses/BaseCharacter.cs" Line="9" Column="21" />
+      <File FileName="Assets/Scripts/Character Classses/Player/PlayerCharacter.cs" Line="89" Column="31" />
+      <File FileName="Assets/Scripts/Character Classses/Player/PlayerHealth.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
